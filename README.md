@@ -1,4 +1,4 @@
-﻿# Dicionario
+﻿# Dicionário
 
 ## Projeto final do curso EuProgramo Front-End II da Programaria
 
